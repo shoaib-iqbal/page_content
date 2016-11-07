@@ -1,0 +1,8 @@
+  development:
+    adapter: postgresql
+    encoding: utf8
+    database: page_content2
+    username: postgres
+    password: postgres
+    host: localhost
+
